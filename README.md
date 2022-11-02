@@ -1,4 +1,4 @@
-# Leetcode\_diary2
+# Readme
 
 The second part of my leetcode diary, starting on Nov 1st 2022.
 

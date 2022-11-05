@@ -6,6 +6,8 @@
 * [2022.Nov.2](2022.nov.2/README.md)
   * [144 Binary Tree Preorder Traversal](2022.nov.2/144-binary-tree-preorder-traversal.md)
   * [145 Binary Tree Postorder Traversal](2022.nov.2/145-binary-tree-postorder-traversal.md)
+* [2022.Nov.5](2022.nov.5/README.md)
+  * [1. Two Sum](2022.nov.5/1.-two-sum.md)
 * [previous part 1](previous-part-1/README.md)
   * [Readme\_PREV](previous-part-1/past-code.md)
   * [Kickoff](previous-part-1/kickoff/README.md)

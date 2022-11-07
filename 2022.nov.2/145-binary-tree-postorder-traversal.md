@@ -3,7 +3,7 @@
 * Easy
 * Given the `root` of a binary tree, return _the postorder traversal of its nodes' values_.
 * [https://leetcode.com/problems/binary-tree-postorder-traversal/](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-* ![](<../.gitbook/assets/image (2).png>)
+* ![](<../.gitbook/assets/image (2) (2).png>)
 
 {% content-ref url="../previous-part-1/featured/tree-questions/binary-search-tree-traversal/145-binary-tree-postorder-traversal.md" %}
 [145-binary-tree-postorder-traversal.md](../previous-part-1/featured/tree-questions/binary-search-tree-traversal/145-binary-tree-postorder-traversal.md)

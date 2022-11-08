@@ -8,12 +8,14 @@ I have just started C++ programming this semester and I decided to improve my C+
 
 Good luck to me!
 
-## Table of contents
 
-* [2022.Nov.1](2022.nov.1/)
-  * [94. Binary Tree Inorder Traversal](2022.nov.1/94.-binary-tree-inorder-traversal.md)
 
-### Previous (Part 1)
+### Daily Goal
 
-* [Past code](previous-part-1/past-code/)
-  * [Readme\_PREV](previous-part-1/past-code.md)
+Trying to make sure that reaches >=5 points everyday. The points are counted as follows:
+
+* 1 point for new Easy Problem&#x20;
+* 2 point for new Medium Problem
+* 3 point for new Hard Problem
+* 1 point for Review Medium Problem
+* 2 point for Review Hard Problem

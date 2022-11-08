@@ -12,7 +12,7 @@
   * [2. Add Two Numbers](2022.nov.6/2.-add-two-numbers.md)
   * [3. Longest Substring Without Repeating Characters](2022.nov.6/3.-longest-substring-without-repeating-characters.md)
 * [2022.Nov.7](2022.nov.7/README.md)
-  * [4. Median of Two Sorted Arrays](2022.nov.7/4.-median-of-two-sorted-arrays.md)
+  * [4. Median of Two Sorted Arrays](2022.nov.6/4.-median-of-two-sorted-arrays.md)
   * [5. Longest Palindromic Substring](2022.nov.7/5.-longest-palindromic-substring.md)
   * [6. Zigzag Conversion](2022.nov.7/6.-zigzag-conversion.md)
 * [previous part 1](previous-part-1/README.md)

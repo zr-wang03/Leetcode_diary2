@@ -10,12 +10,4 @@ Good luck to me!
 
 
 
-### Daily Goal
-
-Trying to make sure that reaches >=5 points everyday. The points are counted as follows:
-
-* 1 point for new Easy Problem&#x20;
-* 2 point for new Medium Problem
-* 3 point for new Hard Problem
-* 1 point for Review Medium Problem
-* 2 point for Review Hard Problem
+###

@@ -119,6 +119,8 @@
   * [82. Remove Duplicates from Sorted List II](2022.dec.1/82.-remove-duplicates-from-sorted-list-ii.md)
   * [83. Remove Duplicates from Sorted List](2022.dec.1/83.-remove-duplicates-from-sorted-list.md)
   * [84. Largest Rectangle in Histogram](2022.dec.1/84.-largest-rectangle-in-histogram.md)
+* [2022.Dec.2](2022.dec.2/README.md)
+  * [86. Partition List](2022.dec.2/86.-partition-list.md)
 * [previous part 1](previous-part-1/README.md)
   * [Readme\_PREV](previous-part-1/past-code.md)
   * [Kickoff](previous-part-1/kickoff/README.md)

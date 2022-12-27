@@ -146,6 +146,8 @@
   * [103. Binary Tree Zigzag Level Order Traversal](2022.dec.24/103.-binary-tree-zigzag-level-order-traversal.md)
   * [104. Maximum Depth of Binary Tree](2022.dec.24/104.-maximum-depth-of-binary-tree.md)
   * [105. Construct Binary Tree from Preorder and Inorder Traversal](2022.dec.24/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+* [2022.Dec.26](2022.dec.26/README.md)
+  * [106. Construct Binary Tree from Inorder and Postorder Traversal](2022.dec.26/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
 * [previous part 1](previous-part-1/README.md)
   * [Readme\_PREV](previous-part-1/past-code.md)
   * [Kickoff](previous-part-1/kickoff/README.md)

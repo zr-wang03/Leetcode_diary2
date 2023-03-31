@@ -267,6 +267,8 @@
 * [2023.March.29](2023.march.29/README.md)
   * [217. Contains Duplicate](2023.march.29/217.-contains-duplicate.md)
   * [219. Contains Duplicate II](2023.march.29/219.-contains-duplicate-ii.md)
+* [2023.March.30](2023.march.30/README.md)
+  * [A\* algorithm](2023.march.30/a-algorithm.md)
 * [previous part 1](previous-part-1/README.md)
   * [Readme\_PREV](previous-part-1/past-code.md)
   * [Kickoff](previous-part-1/kickoff/README.md)

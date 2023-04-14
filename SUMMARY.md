@@ -286,6 +286,8 @@
   * [230. Kth Smallest Element in a BST](2023.april.12/230.-kth-smallest-element-in-a-bst.md)
   * [231. Power of Two](2023.april.12/231.-power-of-two.md)
   * [234. Palindrome Linked List](2023.april.12/234.-palindrome-linked-list.md)
+* [2023.April.13](2023.april.13/README.md)
+  * [235. Lowest Common Ancestor of a Binary Search Tree](2023.april.13/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
 * [previous part 1](previous-part-1/README.md)
   * [Readme\_PREV](previous-part-1/past-code.md)
   * [Kickoff](previous-part-1/kickoff/README.md)

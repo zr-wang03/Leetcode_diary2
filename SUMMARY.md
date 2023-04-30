@@ -292,6 +292,8 @@
   * [236. Lowest Common Ancestor of a Binary Tree](2023.april.29/236.-lowest-common-ancestor-of-a-binary-tree.md)
   * [237. Delete Node in a Linked List](2023.april.29/237.-delete-node-in-a-linked-list.md)
   * [238. Product of Array Except Self](2023.april.29/238.-product-of-array-except-self.md)
+* [2023.April.30](2023.april.30/README.md)
+  * [239. Sliding Window Maximum](2023.april.30/239.-sliding-window-maximum.md)
 * [previous part 1](previous-part-1/README.md)
   * [Readme\_PREV](previous-part-1/past-code.md)
   * [Kickoff](previous-part-1/kickoff/README.md)
